@@ -1,4 +1,4 @@
-# speer-assignmentsse 
+# speer-assignments
 
 
 Run as node app.js <br>
