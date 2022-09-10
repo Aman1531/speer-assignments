@@ -1,6 +1,6 @@
 # speer-assignmentsse 
 
-Apps are in twitter & stocks folder <br>
+
 Run as node app.js <br>
 tests are run as npx mocha <br> 
 I have tested with ARC ( advanced rest client ) chrome app <br>
